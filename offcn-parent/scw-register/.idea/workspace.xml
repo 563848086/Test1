@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8d7cdac-158e-43ab-a09d-466bb5913f0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 201.5985.32\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h7yleo0e67vWIT0tOYpdPi4fGc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ScwRegisterStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.offcn.ScwRegisterStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8d7cdac-158e-43ab-a09d-466bb5913f0e" name="Default Changelist" comment="" />
+      <created>1599376580238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599376580238</updated>
+      <workItem from="1599376581425" duration="1264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom" timestamp="1599382756014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756014" />
+    <state width="1877" height="233" key="GridCell.Tab.0.center" timestamp="1599382756014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756014" />
+    <state width="1877" height="233" key="GridCell.Tab.0.left" timestamp="1599382756014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756014" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right" timestamp="1599382756014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756014" />
+    <state width="1877" height="233" key="GridCell.Tab.1.bottom" timestamp="1599382756016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756016" />
+    <state width="1877" height="233" key="GridCell.Tab.1.center" timestamp="1599382756016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756016" />
+    <state width="1877" height="233" key="GridCell.Tab.1.left" timestamp="1599382756015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756015" />
+    <state width="1877" height="233" key="GridCell.Tab.1.right" timestamp="1599382756016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599382756016" />
+  </component>
+</project>

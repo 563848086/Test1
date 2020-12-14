@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e384f32-84ce-48ec-9d54-f0f6c5180cd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 201.5985.32\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h8Lv4CmHoOthr3LUpr04gPPbZ8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scw-common/src/main/java/com/offcn/utils" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.offcn.order.vo.resp" />
+      <recent name="com.offcn.project.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\idea_workspace_offcn\0511\offcn-parent\scw-common\src\main\java\com\offcn\utils" />
+      <recent name="C:\idea_workspace_offcn\0511\offcn-parent\scw-parent\scw-order\src\main\resources\com\offcn\order\mapper" />
+      <recent name="C:\idea_workspace_offcn\0511\offcn-parent\scw-parent\scw-order\src\main\java\com\offcn\order" />
+      <recent name="C:\idea_workspace_offcn\0511\offcn-parent\scw-parent\scw-order\src\main\resources" />
+      <recent name="C:\idea_workspace_offcn\0511\offcn-parent\scw-parent\scw-project\src\main\java\com\offcn\project\enums" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ScwOrderStart">
+    <configuration name="OSSTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offcn.utils.OSSTest" />
+      <module name="scw-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwOrderStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.offcn.ScwOrderStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwProjectStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="scw-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.offcn.ScwProjectStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwRegisterStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="scw-register" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.offcn.ScwRegisterStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwUserStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="scw-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.offcn.ScwUserStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ScwProjectStart" />
+        <item itemvalue="Spring Boot.ScwUserStart" />
+        <item itemvalue="Spring Boot.ScwRegisterStart" />
+        <item itemvalue="Application.OSSTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e384f32-84ce-48ec-9d54-f0f6c5180cd5" name="Default Changelist" comment="" />
+      <created>1599388005625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599388005625</updated>
+      <workItem from="1599388016725" duration="931000" />
+      <workItem from="1599388979873" duration="256000" />
+      <workItem from="1599389278809" duration="82000" />
+      <workItem from="1599440109430" duration="16108000" />
+      <workItem from="1599526542388" duration="13269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1599447398797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599447398797" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1599545917186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599545917186" />
+    <state x="728" y="386" width="463" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599460997252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="386" width="463" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1599460997252" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599528225600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599528225600" />
+    <state width="1544" height="180" key="GridCell.Tab.0.bottom" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.0.center" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.0.left" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.0.right" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.1.bottom" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.1.center" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.1.left" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state width="1544" height="180" key="GridCell.Tab.1.right" timestamp="1599546338024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1544" height="180" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599546338024" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1599389026886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599389026885" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599535438683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599535438683" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/scw-common/src/main/java/com/offcn/utils/OSSTemplate.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
